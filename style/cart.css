@@ -270,22 +270,18 @@
 }
 .text{
     color:#86898d ;
-    /* font-family: 'Oswald', sans-serif; */
 font-family: 'Source Sans Pro', sans-serif;
 line-height: 25px;
 font-size: 15px;
 }
 .description{
     color:#86898d ;
-    /* font-family: 'Oswald', sans-serif; */
     margin-left: 50px;
     font-size: 15px;
-    line-height: 1px;
     
 }
 .description1{
     color:#86898d ;
-    /* font-family: 'Oswald', sans-serif; */
     margin-left: 30px;
     font-size: 15px;
 
